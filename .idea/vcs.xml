@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/car_racing_simulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dpg_orca" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/orca" vcs="Git" />
+  </component>
+</project>

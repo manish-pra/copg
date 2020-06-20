@@ -1,0 +1,12 @@
+{
+    "data_dir": "ORCA_OPT/",
+
+    "n_pred": 200,
+    "n_batch": 1,
+
+    "n_state": 6,
+    "n_control": 2,
+    "n_full_state": 12,
+
+    "n_track": 999
+}
