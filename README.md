@@ -61,5 +61,3 @@ You can check results in the tensorboard.
 
 ### Matching Pennies
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/37489792/84292901-4c56b500-ab47-11ea-9ba2-02d898240e5d.gif" width="350" height="250">&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37489792/84293659-6349d700-ab48-11ea-86a7-29957b828584.gif" width="70" height="250">&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/37489792/84292903-4cef4b80-ab47-11ea-820c-eea200f85a7a.gif" width="350" height="250"> 
-
-The gifs of iterations shown here might not align exactly with gifs of CoPG and GDA in MP and RPS game. Because it is always running on a anonymous git server. This will be fixed by using gif link from repositiory.  
